@@ -28,7 +28,7 @@
 
 ## Скриншот
 
-![Дашборд](social%20network.jpg)
+[Посмотреть дашборд](https://github.com/nikitakarimow11/название-репозитория/raw/main/path/to/image.jpg)
 
 ## Инструменты
 - Apache Superset
